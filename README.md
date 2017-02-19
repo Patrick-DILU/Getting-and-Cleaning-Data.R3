@@ -1,9 +1,9 @@
 # Getting-and-Cleaning-Data.R3
 
 ### Contents:
-A run_analysis.R script -- that performs required data cleaning analysis.
-A code book -- that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
-A README -- that explains the analysis files is clear and understandable.
++ A run_analysis.R script -- that performs required data cleaning analysis.
++ A code book -- that modifies and updates the available codebooks with the data to indicate all the variables and summaries calculated, along with units, and any other relevant information.
++ A README -- that explains the analysis files is clear and understandable.
 
 ### Introduction:
 
